@@ -1,0 +1,1 @@
+print(dict([['name','Dicoding'],['age',17]]))
